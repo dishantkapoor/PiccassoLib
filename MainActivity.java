@@ -26,7 +26,7 @@ String url;
         w=findViewById(R.id.width);
         resize=findViewById(R.id.resize);
 
-        url="https://scontent.fdel4-1.fna.fbcdn.net/v/t1.0-9/72756629_1410184482471245_4306017203175555072_n.jpg?_nc_cat=108&_nc_sid=85a577&_nc_ohc=0yZRw0GMsFwAX_xVWmB&_nc_ht=scontent.fdel4-1.fna&oh=4f986a657dd2a90c4bdc472d5c92ab34&oe=5F29C1C2";
+        url="https://scipy-lectures.org/_images/face.png";
       resize.setOnClickListener(new View.OnClickListener() {
           @Override
           public void onClick(View v) {
